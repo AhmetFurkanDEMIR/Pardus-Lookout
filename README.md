@@ -20,7 +20,7 @@ If it is necessary to explain the general logic of the application, faces are se
 **Actions ->>** **Shut Down :** If one of the above three conditions occurs, the computer is shut down. **Suspend :** If one of the above three conditions occurs, the computer is Suspend. **Warn :** If one of the above three conditions occurs, the computer is Warn.
 
 
-### Requirements, supported Operating Systems and executables
+## Requirements, supported Operating Systems and executables
 
 |Operating systems | Support status | 
 |----------------- |--------------- |
@@ -45,6 +45,6 @@ pip3 install qdarkstyle
 From the [Release]() section, you can access the executable ready files compiled for Pardus/Debian.
 
 
-### Demo video of the app
+## Demo video of the app
  
 
