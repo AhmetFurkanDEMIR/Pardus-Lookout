@@ -47,4 +47,5 @@ From the [Release](https://github.com/AhmetFurkanDEMIR/Pardus-Lookout/releases/t
 
 ## Demo video of the app
  
+[](https://user-images.githubusercontent.com/54184905/132219359-f034a999-6b99-45c9-b614-9065b0977429.mp4)
 
