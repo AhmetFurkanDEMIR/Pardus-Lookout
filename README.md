@@ -42,7 +42,7 @@ pip3 install mediapipe
 pip3 install qdarkstyle
 ```
 
-From the [Release]() section, you can access the executable ready files compiled for Pardus/Debian.
+From the [Release](https://github.com/AhmetFurkanDEMIR/Pardus-Lookout/releases/tag/Pardus-Lookout) section, you can access the executable ready files compiled for Pardus/Debian.
 
 
 ## Demo video of the app
